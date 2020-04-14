@@ -9,10 +9,8 @@ import service.PacientService;
 import view.CitasMostrar;
 import view.CrearCitas;
 import view.MenuCitas;
-import javax.swing.JButton;
-import javax.swing.JTable;
-import javax.swing.JOptionPane;
-import javax.swing.JComboBox;
+
+import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
